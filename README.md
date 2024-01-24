@@ -2,7 +2,7 @@
 this is my first repository, it is endsem project of coa
 
 A simple 8-bit microprocessor
-For the purposes of this assignment, a microprocessor consists of the following parts:
+For the purposes of this college project, a microprocessor consists of the following parts:
 
 ###### Instruction memory (read only)
 ###### Data memory (read / write)
